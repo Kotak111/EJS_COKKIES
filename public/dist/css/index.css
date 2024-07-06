@@ -1,0 +1,23 @@
+.profile-main{
+   
+    width: 64%;
+    margin: auto!important;
+    margin-top: 10%!important;
+}
+
+.avtar-img{
+    height: 200px;
+    width: 200px;
+}
+.details{
+    display: flex;
+}
+.information{
+   /* margin-left: 10%; */
+   margin-top: 5%;
+}
+ul li{
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
